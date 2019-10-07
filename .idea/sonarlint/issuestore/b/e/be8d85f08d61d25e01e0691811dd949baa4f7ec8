@@ -1,0 +1,6 @@
+
+<squid:S2119,"Save and re-use this "Random".(§Í«Ù8× ™§Ñ-
+qsquid:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(î¥Àûúÿÿÿÿ8× ™§Ñ-
+{squid:S1488-"]Immediately return this expression instead of assigning it to the temporary variable "index".(Ñú“½8× ™§Ñ-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ëê†•8× ™§Ñ-

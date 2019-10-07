@@ -1,0 +1,20 @@
+
+|squid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8œÈŞÈÑ-
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ëê†•8œÈŞÈÑ-
+Tsquid:S2209Ÿ"5Change this instance-reference to a static reference.(éİ©Ú8œÈŞÈÑ-
+Asquid:S2119u"Save and re-use this "Random".(ë’²øÿÿÿÿ8œÈŞÈÑ-
+<squid:S2119h"Save and re-use this "Random".(§Í«Ù8œÈŞÈÑ-
+~squid:S1192"`Define a constant instead of duplicating this literal "      ss:Name=\"A\"/></Cell>\n" 13 times.(Ê µ8é«ÚÈÑ-
+|squid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8œÈŞÈÑ-
+}squid:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8œÈŞÈÑ-
+Tsquid:S2209¡"5Change this instance-reference to a static reference.(—«ÀÍ8œÈŞÈÑ-
+¬squid:S1192"Define a constant instead of duplicating this literal "    <Cell ss:StyleID=\"s64\"><Data ss:Type=\"String\">%s</Data><NamedCell\n" 13 times.(ôçıÊ8é«ÚÈÑ-
+Bsquid:S2119"Save and re-use this "Random".(ë’²øÿÿÿÿ8œÈŞÈÑ-
+Ysquid:S2209¥"5Change this instance-reference to a static reference.(İµ¼±úÿÿÿÿ8œÈŞÈÑ-
+Msquid:S2140µ")Use "java.util.Random.nextInt()" instead.(íŞ øşÿÿÿÿ8œÈŞÈÑ-
+Ysquid:S2209¥"5Change this instance-reference to a static reference.(İµ¼±úÿÿÿÿ8œÈŞÈÑ-
+qsquid:S20951"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(î¥Àûúÿÿÿÿ8œÈŞÈÑ-
+Tsquid:S2209£"5Change this instance-reference to a static reference.(èş¸”8œÈŞÈÑ-
+Ysquid:S2209¥"5Change this instance-reference to a static reference.(İµ¼±úÿÿÿÿ8œÈŞÈÑ-
+Bsquid:S2119‚"Save and re-use this "Random".(ë’²øÿÿÿÿ8œÈŞÈÑ-
